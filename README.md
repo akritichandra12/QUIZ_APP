@@ -1,1 +1,1 @@
-# QUIZ_APP
+The quiz application is a dynamic React.js project designed to test the user's knowledge through a series of questions. Leveraging the useRef hook, the app ensures smooth handling of user interactions and state management throughout the quiz. It presents a total of 5 questions, each crafted to engage and challenge the user. Upon completing all the questions, the application calculates and displays the user's final score, providing an interactive and seamless experience for quiz-takers.
